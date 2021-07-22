@@ -1,0 +1,29 @@
+#body{
+  margin:auto;
+  width:50%;
+  padding:10px;
+}
+
+#button{
+  display:flex;
+  justify-content: center;
+  margin: 5px 0px 5px 0px;
+}
+
+#content_form{
+  background-color:rgba(238, 238, 238, 0.616);
+  margin-bottom:10px;
+  padding:5px;
+}
+
+#content_form_textfield{
+  display: flex  
+}
+#content_form_textfield.button{
+  width:20px;
+}
+
+
+h1{
+  text-align: center;
+}
